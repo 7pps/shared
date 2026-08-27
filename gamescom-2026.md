@@ -1,4 +1,4 @@
-## 📅 Freitag, 28. August: Späte Ankunft, MSRP-Flash-Sales & Core-Tech
+## 📅 Freitag, 28. August: MSRP-Flash-Sales & Core-Tech
 
 _Focus: Reibungsloser Einlass, Sichern der heiß begehrten Grafikkarten zur UVP, Live-KI-Benchmarks und das Testen der neuesten Laptop-Generation vor dem Abendschluss._
 
