@@ -1,4 +1,4 @@
-## 📅 Freitag, 28. August: MSRP-Flash-Sales & Core-Tech
+## 📅 Freitag, 28. August: Core-Tech & Flash-Sales 
 
 _Focus: Reibungsloser Einlass, Sichern der heiß begehrten Grafikkarten zur UVP, Live-KI-Benchmarks und das Testen der neuesten Laptop-Generation vor dem Abendschluss._
 
@@ -13,7 +13,7 @@ _Focus: Reibungsloser Einlass, Sichern der heiß begehrten Grafikkarten zur UVP,
     - **HoYoverse-Stand:** Teste die interaktive Weltraum-Sandbox der spielbaren Demo von _**Petit Planet**_und beobachte direkt am Monitor, wie die Ökosysteme auf prozedurales Wachstum reagieren (siehe auch [hoyoverse.com](https://www.hoyoverse.com/)).
     
 
-### **⚡ Nachmittag Phase 2: Der kritische MSRP-Grafikkarten-Flash-Sale (Halle 6 & 7)**
+### **⚡ Nachmittag Phase 2: Der kritische Grafikkarten Flash-Sale (Halle 6 & 7)**
 
 - **14:40 – 15:00 Uhr | Live-Verleihung der Tech-Spinoff-Awards (Halle 7, Studio-Bühne):** Stehe live vor der Bühne, wenn die wichtigste Hardware-Auszeichnung der Messe für das **Best Hardware/Tech Spinoff** feierlich übergeben wird (siehe auch [https://www.gamescom.global/](https://www.gamescom.global/)).
 - **15:00 – 16:30 Uhr | NVIDIA Lounge (Halle 6, Stand A062):** _Absolutes Top-Ziel._ Reiche dich in die physische Schlange ein, um ein Ticket für das **GeForce RTX 50 Series Verified Priority Access IRL**-Programm zu ergattern. Nur hier kannst du eine **RTX 5080** oder **RTX 5070 Founders Edition** zur echten UVP kaufen und direkt nach Hause liefern lassen – ein satter Messe-Vorteil von bis zu 500 € gegenüber Online-Händlern. Am Stand laufen parallel Live-Demos zu DLSS 4.5 und RTX Mega Geometry (siehe auch [nvidia.com](https://www.nvidia.com/en-us/geforce/news/gamescom-2026-nvidia-geforce-rtx-dlss-4-5-announcements/)). _Hinweis: Am Samstag gibt es diese Verkaufsaktion nicht mehr!_
