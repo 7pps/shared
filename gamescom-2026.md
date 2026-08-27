@@ -63,3 +63,12 @@ _Focus: Nutzung der frühen Öffnungszeit um 9:00 Uhr, um Blockbuster-Warteschla
 3. **Rheinüberquerung:** Die Bahn fährt unter der Stadt durch und überquert den Rhein. Bleibe für genau 3 Stationen sitzen.
 4. **Aussteigen:** Steige an der Haltestelle **Köln Koelnmesse** aus.
 5. **Fußweg zum Eingang Nord:** Folge nach dem Verlassen der U-Bahn-Station der Straße _Messekreisel_ direkt nach Norden in Richtung Halle 8 und Halle 9. Es ist ein gerader Fußweg von etwa 10 bis 11 Minuten bis zum Glaspavillon des **Eingang Nord**.
+
+## 🚇 Die Rückroute
+
+1. **Zur U-Bahn-Station laufen:** Verlasse die Hallen wieder über den gläsernen **Eingang Nord** und laufe den _Messekreisel_ für ca. 10 Minuten nach Süden (Richtung Halle 10), bis du wieder an der oberirdischen KVB-Haltestelle **Köln Koelnmesse** stehst.
+2. **Bahnsteig wählen:** Gehe auf den Bahnsteig in **Fahrtrichtung Köln-Innenstadt / Severinstraße** (Süden).
+3. **In die U-Bahn einsteigen:** Nutze entweder die **U-Bahn-Linie 3** (Richtung _Mengenich / Görlinger-Zentrum_) oder die **U-Bahn-Linie 4** (Richtung _Bocklemünd_).
+4. **Rheinüberquerung:** Die Bahn fährt über die Severinsbrücke zurück auf die linke Rheinseite. Bleibe für genau **3 Stationen** sitzen.
+5. **Aussteigen an der Severinstraße:** Verlasse die Bahn an der Haltestelle **Severinstraße** über die Rolltreppen nach oben.
+6. **Fußweg zum Hotel:** Folge der Straße _Mühlenbach_ (wird später zur Straße _An der Malzmühle_) für ca. 7–8 Minuten geradeaus nach Osten (Richtung Rhein). Das Hotel **NH Köln Altstadt** liegt direkt auf der rechten Seite.
