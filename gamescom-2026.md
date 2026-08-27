@@ -53,3 +53,13 @@ _Focus: Nutzung der frühen Öffnungszeit um 9:00 Uhr, um Blockbuster-Warteschla
     - _Messe-Tipp zur Schnäppchenjagd:_ Scanne die QR-Codes auf den Schildern neben den Laptops – viele Händler bieten versteckte Aktions-Codes für Gratis-Expressversand und Geschenke beim Online-Kauf.
     
 - **15:45 – 16:45 Uhr | Multi-Threaded Mobile AI (Außenbereich P8):** Besuche den „The District Hub“ im Freigelände, um die **HP OMEN Transcend** Laptops unter Extrembedingungen zu testen. Der verbaute Intel Core Ultra 9 Chip befeuert hier das KI-gestützte Echtzeit-Upscaling und die Systemoptimierung parallel zu laufendem AAA-Gaming (siehe auch die offizielle [HP HyperX OMEN gamescom Landingpage zu OMEN AI](https://www.hp.com/de-de/gaming-pc/gamescom2026.html)).
+
+## 🚇 Die Route mit der U-Bahn
+
+**Hotel ➔ Severinstraße ➔ U-Bahn 3/4 ➔ Haltestelle Koelnmesse**
+
+1. **Weg zur Haltestelle:** Verlasse das NH Köln Altstadt und gehe zu Fuß etwa 8 Minuten nach Westen bis zur U-Bahn-Station **Severinstraße**.
+2. **U-Bahn nehmen:** Gehe zum Gleis und nimm die **U-Bahn-Linie 3** (Richtung _Thielenbruch_) oder die **U-Bahn-Linie 4** (Richtung _Schlebusch_). Die Bahnen fahren im 5-Minuten-Takt.
+3. **Rheinüberquerung:** Die Bahn fährt unter der Stadt durch und überquert den Rhein. Bleibe für genau 3 Stationen sitzen.
+4. **Aussteigen:** Steige an der Haltestelle **Köln Koelnmesse** aus.
+5. **Fußweg zum Eingang Nord:** Folge nach dem Verlassen der U-Bahn-Station der Straße _Messekreisel_ direkt nach Norden in Richtung Halle 8 und Halle 9. Es ist ein gerader Fußweg von etwa 10 bis 11 Minuten bis zum Glaspavillon des **Eingang Nord**.
