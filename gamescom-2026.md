@@ -70,4 +70,4 @@ _Focus: Nutzung der frühen Öffnungszeit um 9:00 Uhr, um Blockbuster-Warteschla
 2. **Bahnsteig wählen:** Gehe auf den Bahnsteig in **Fahrtrichtung Köln-Innenstadt / Severinstraße** (Süden).
 3. **In die U-Bahn einsteigen:** Nutze entweder die **U-Bahn-Linie 3** (Richtung _Mengenich / Görlinger-Zentrum_) oder die **U-Bahn-Linie 4** (Richtung _Bocklemünd_).
 4. **Rheinüberquerung:** Die Bahn überquert die Severinsbrücke. Bleibe für genau **3 Stationen** sitzen und verlasse die Bahn an der Haltestelle **Severinstraße** über den nördlichen Ausgang (_Waidmarkt / Löwengasse_).
-- **Fußweg zum Hotel:** Gehe nach Osten durch die **Löwengasse**, kreuze die **Weberstraße**, laufe geradeaus durch den Park und folge der **Kleinen Witschgasse** direkt bis zum _NH Köln Altstadt_.
+5. **Fußweg zum Hotel:** Gehe nach Osten durch die **Löwengasse**, kreuze die **Weberstraße**, laufe geradeaus durch den Park und folge der **Kleinen Witschgasse** direkt bis zum _NH Köln Altstadt_.
