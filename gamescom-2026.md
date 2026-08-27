@@ -58,7 +58,7 @@ _Focus: Nutzung der frühen Öffnungszeit um 9:00 Uhr, um Blockbuster-Warteschla
 
 **Hotel ➔ Severinstraße ➔ U-Bahn 3/4 ➔ Haltestelle Koelnmesse**
 
-1. **Weg zur Haltestelle:** Verlasse das NH Köln Altstadt und gehe zu Fuß etwa 8 Minuten nach Westen bis zur U-Bahn-Station **Severinstraße**.
+1. **Weg zur Haltestelle:** Verlasse das _NH Köln Altstadt_ und gehe zu Fuß etwa 8 Minuten nach Westen bis zur U-Bahn-Station **Severinstraße**.
 2. **U-Bahn nehmen:** Gehe zum Gleis und nimm die **U-Bahn-Linie 3** (Richtung _Thielenbruch_) oder die **U-Bahn-Linie 4** (Richtung _Schlebusch_). Die Bahnen fahren im 5-Minuten-Takt.
 3. **Rheinüberquerung:** Die Bahn fährt unter der Stadt durch und überquert den Rhein. Bleibe für genau 3 Stationen sitzen.
 4. **Aussteigen:** Steige an der Haltestelle **Köln Koelnmesse** aus.
@@ -69,6 +69,5 @@ _Focus: Nutzung der frühen Öffnungszeit um 9:00 Uhr, um Blockbuster-Warteschla
 1. **Zur U-Bahn-Station laufen:** Verlasse die Hallen wieder über den gläsernen **Eingang Nord** und laufe den _Messekreisel_ für ca. 10 Minuten nach Süden (Richtung Halle 10), bis du wieder an der oberirdischen KVB-Haltestelle **Köln Koelnmesse** stehst.
 2. **Bahnsteig wählen:** Gehe auf den Bahnsteig in **Fahrtrichtung Köln-Innenstadt / Severinstraße** (Süden).
 3. **In die U-Bahn einsteigen:** Nutze entweder die **U-Bahn-Linie 3** (Richtung _Mengenich / Görlinger-Zentrum_) oder die **U-Bahn-Linie 4** (Richtung _Bocklemünd_).
-4. **Rheinüberquerung:** Die Bahn fährt über die Severinsbrücke zurück auf die linke Rheinseite. Bleibe für genau **3 Stationen** sitzen.
-5. **Aussteigen an der Severinstraße:** Verlasse die Bahn an der Haltestelle **Severinstraße** über die Rolltreppen nach oben.
-6. **Fußweg zum Hotel:** Folge der Straße _Mühlenbach_ (wird später zur Straße _An der Malzmühle_) für ca. 7–8 Minuten geradeaus nach Osten (Richtung Rhein). Das Hotel **NH Köln Altstadt** liegt direkt auf der rechten Seite.
+4. **Rheinüberquerung:** Die Bahn überquert die Severinsbrücke. Bleibe für genau **3 Stationen** sitzen und verlasse die Bahn an der Haltestelle **Severinstraße** über den nördlichen Ausgang (_Waidmarkt / Löwengasse_).
+- **Fußweg zum Hotel:** Gehe nach Osten durch die **Löwengasse**, kreuze die **Weberstraße**, laufe geradeaus durch den Park und folge der **Kleinen Witschgasse** direkt bis zum _NH Köln Altstadt_.
